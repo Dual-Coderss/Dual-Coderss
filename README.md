@@ -59,7 +59,7 @@ const dualCoders = {
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=AAFF00)](https://www.instagram.com/steck_duo/)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=AAFF00)](mailto:miguelelorenzo67@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=AAFF00)](mailto:techduofc@gmail.com)
 
 </div>
 
