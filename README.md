@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### Somos a Duo Tech — uma dupla de desenvolvedores formada no **SENAI**, unidos pela paixão por tecnologia e pelo desejo de construir coisas que importam.
+### Somos a Duo Tech — uma dupla de desenvolvedores em formação no **SENAI**, unidos pela paixão por tecnologia e pelo desejo de construir coisas que importam.
 
 </div>
 
@@ -45,20 +45,11 @@ const dualCoders = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dual-Coderss&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=AAFF00&icon_color=AAFF00&text_color=ffffff&border_color=AAFF00&border_radius=10"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dual-Coderss&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&title_color=AAFF00&text_color=ffffff&border_color=AAFF00&border_radius=10"/>
-</div>
-
----
-
 ## Conecte-se com a gente
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=AAFF00)](https://www.instagram.com/steck_duo/)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=AAFF00)](https://www.instagram.com/tech_duo.ml/)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=AAFF00)](mailto:techduofc@gmail.com)
 
 </div>
@@ -67,7 +58,7 @@ const dualCoders = {
 
 <div align="center">
 
-*"Dois cabeças pensam melhor que uma — especialmente quando as duas pensam em código."*
+*"Duas cabeças pensam melhor que uma — especialmente quando as duas pensam em código."*
 
 </div>
 
